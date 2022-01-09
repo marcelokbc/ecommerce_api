@@ -1,37 +1,3 @@
-Skip to content
-Why GitHub? 
-Team
-Enterprise
-Explore 
-Marketplace
-Pricing 
-Search
-Sign in
-Sign up
-svenfuchs
-/
-rails-i18n
-Public
-Code
-Issues
-32
-Pull requests
-4
-Actions
-Projects
-Wiki
-Security
-Insights
-rails-i18n/rails/locale/pt-BR.yml
-@mynock
-mynock Lowercasing month and day namesin Portugese language files
-…
-Latest commit 3b1f6be on 20 Jun 2019
- History
- 26 contributors
-@kuroda@rosenfeld@tigrish@jlduran@sobrinho@weppos@taq@amatsuda@reu@rachel-carvalho@Silex@omaciel
-223 lines (223 sloc)  5.37 KB
-   
 ---
 pt-BR:
   activerecord:
@@ -255,15 +221,3 @@ pt-BR:
       long: "%d de %B de %Y, %H:%M"
       short: "%d de %B, %H:%M"
     pm: ''
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
