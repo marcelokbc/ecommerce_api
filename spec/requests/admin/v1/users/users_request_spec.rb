@@ -10,7 +10,7 @@ RSpec.describe "Admin V1 Users as :admin", type: :request do
     context "without any params" do
       it "returns 10 users" do
         get url, headers: auth_header(user_logged)
-        expect(body_json['users']).count.to eq 10
+        expect(body_json['users'].count).to eq 10
       end   
     end
 
